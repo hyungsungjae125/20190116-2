@@ -9,3 +9,17 @@ C:\Users\GDC20\source\repos\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.csp
 C:\Users\GDC20\source\repos\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
 C:\Users\GDC20\source\repos\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\GDC20\source\repos\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\MySql.Data.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\MySql.Data.xml
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\20190116-2\Solution0116\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
